@@ -4,7 +4,7 @@
 :root {
     --laranja-claro: #e9d419;
     --alto-contraste-fundo: #000000;
-    --alto-contraste-texto: #26629b;
+    --alto-contraste-texto: hsl(197, 75%, 33%);
     --alto-contraste-link: #ffd700;
 }
 
